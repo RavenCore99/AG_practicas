@@ -1,0 +1,18 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+max_cubica.ipynb
+clase_1_ag.py
+.venv
+S7_Ejercicio_TSP.md
+venv
+S6_Libreria_PyGAD.md
+S7 - Ejercicio del Problema del viajante.pdf
+S6 – Libreria Python PyGAD (1).pdf
+Guía_Laboratorio_Algoritmos_Genéticos.md
+AG_Ejercicios_1_y_3_Ideas_Colab.md
+!.env.example
