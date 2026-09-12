@@ -133,10 +133,8 @@ El notebook `actividad_AG.ipynb` esta organizado en celdas de tipo Markdown y Co
 6. **Visualizacion de la mejor ruta** encontrada y evolucion del fitness
 7. **Comparacion de metodos de cruce** con medicion de tiempo y distancia
 
-## Licencia
 
-Proyecto de entrega academica - uso exclusivo para fines educativos.
 
 ---
 
-**Generado para la materia: Algoritmos Geneticos y machine Learning en Practica**
+**Algoritmos Geneticos y machine Learning**
